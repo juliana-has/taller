@@ -46,14 +46,14 @@
 
 ## Debilidades
 
-### ❌ Make
+### Make
 - No es portable a Windows sin adaptaciones (MinGW, WSL, etc.)
 - Sin detección automática de compilador ni plataforma
 - Escala mal: Makefiles grandes son difíciles de mantener
 - Sin soporte nativo para builds fuera del árbol de fuentes
 - Gestión de dependencias externas completamente manual
 
-### ❌ CMake
+### CMake
 - Curva de aprendizaje más pronunciada
 - Requiere instalación adicional (no siempre disponible por defecto)
 - Excesivo para proyectos pequeños o ejercicios académicos
