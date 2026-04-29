@@ -1,6 +1,5 @@
 # Make vs CMake — Cuadro Comparativo
 
-## Resumen general
 
 | Característica | Make | CMake |
 |---|---|---|
