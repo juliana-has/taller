@@ -26,7 +26,7 @@
 
 ## Ventajas
 
-### ✅ Make
+### Make
 - Presente en casi cualquier sistema Unix/Linux sin instalación extra
 - Configuración rápida para proyectos simples
 - Control absoluto de cada paso del proceso de compilación
@@ -34,7 +34,7 @@
 - Reconstrucción incremental basada en timestamps
 - Targets `.PHONY` para automatizar tareas arbitrarias (`build`, `run`, `clean`, `test`)
 
-### ✅ CMake
+### CMake
 - Multiplataforma: genera Makefiles, Ninja, proyectos MSVC, entre otros
 - `find_package()` localiza dependencias del sistema automáticamente
 - Targets modernos con propiedades (`target_link_libraries`, `target_include_directories`)
